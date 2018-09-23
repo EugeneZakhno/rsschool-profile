@@ -1,3 +1,3 @@
 # rsschool-profile
 RS|School
-https://www.codecademy.com/users/EugeneZakhno/achievements
+https://www.codecademy.com/users/ZheniaZakhno/achievements
